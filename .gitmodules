@@ -1,0 +1,3 @@
+[submodule "microservicio/react"]
+	path = microservicio/react
+	url = https://github.com/NAISHA0608/proyecto-1.git
